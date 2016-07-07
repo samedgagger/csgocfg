@@ -1,0 +1,1 @@
+-novid -language bananagaming -tickrate 128 +exec autoexec
